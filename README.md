@@ -1,4 +1,4 @@
-#🤖 Chatbot com Flask + OpenAI
+#🤖 Chatbot com Flask + OpenAI#
 
 Este projeto é um chatbot simples feito com Python, Flask, OpenAI API, e uma interface básica com HTML e CSS. Ele foi criado com o objetivo de praticar a linguagem Python e explorar a integração com inteligência artificial em uma aplicação web.
 
@@ -12,7 +12,7 @@ Praticar a construção de aplicações web simples
 
 Servir como base para projetos maiores e mais interativos
 
-#🛠️ Tecnologias Utilizadas
+#🛠️ Tecnologias Utilizadas#
 
 Python 3
 
@@ -22,7 +22,7 @@ OpenAI API
 
 HTML5 + CSS3
 
-#📁 Estrutura do Projeto
+#📁 Estrutura do Projeto#
 
 chatbot/
 ├── app.py                    # Inicializa o servidor Flask
@@ -34,7 +34,7 @@ chatbot/
 ├── templates/
 │   └── index.html            # Página web principal
 
-#▶️ Como Executar Localmente
+#▶️ Como Executar Localmente#
 
 Clone este repositório:
 
